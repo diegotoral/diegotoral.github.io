@@ -1,23 +1,25 @@
-name: Your New Jekyll Site
+name: diegotoral.me
 description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+meta_description: "Diego Toral, Blogging about stuffs"
 
 aboutPage: true
 
 markdown: redcarpet
 highlighter: pygments
+gems:
+  - jekyll-paginate
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'http://diegotoral.github.io'
+google_analytics: 'UA-46871915-1'
 disqus: false
-disqus_shortname: 'your-disqus-shortname'
+disqus_shortname: 'diegotoral'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://diegotoral.github.io'
+author:         'Diego Toral'
+authorTwitter:  'diegootoral'
 
 permalink:       /:year/:title/
 
