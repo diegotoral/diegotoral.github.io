@@ -1,11 +1,11 @@
 name: diegotoral.me
-description: Blogging about stuffs
-meta_description: "Diego Toral, Blogging about stuffs"
+description: Blogging about NERD stuffs
+meta_description: "Diego Toral, Blogging about NERD stuffs"
 
 aboutPage: true
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 gems:
   - jekyll-paginate
 
