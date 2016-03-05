@@ -2,6 +2,7 @@
 layout: post
 title: Git alias que eu não vivo sem
 date: '2014-06-15 16:28:53'
+description: Apelidando comandos Git para ser mais eficaz
 ---
 
 O git faz parte do meu dia-a-dia e de muitos outros desenvolvedores. É uma das ferramentas mais importantes do ambiente de densevolvimento e fundamental para se trabalhar em equipe.

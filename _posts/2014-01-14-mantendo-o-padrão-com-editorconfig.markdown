@@ -2,6 +2,7 @@
 layout: post
 title: Mantendo o padrão com EditorConfig
 date: '2014-01-14 14:53:23'
+description: Tudo igualzinho nos seus projetos
 ---
 
 Uma das coisas mais importantes quando se está trabalhando em equipe é manter o padrão. Todos os envolvidos em um projeto devem seguir o mesmo padrão. Em computação, isso significa, dentre outras coisas, remover espaços em branco no fim de cada linha, usar 2 ou 4 espaços para indentação, definir o encode dos arquivos, etc. O código do projeto deve ser um só, independente de quantas pessoas estejam trabalhando nele.

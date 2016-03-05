@@ -2,6 +2,7 @@
 layout: post
 title: Um gerador Yeoman para Django
 date: '2014-01-06 00:10:46'
+description: A estrutura que todo projeto Django merece
 ---
 
 Nesses últimos dias estive trabalhando em um novo projeto, um gerador para o Yeoman. (Caso ainda não tenha ouvido falar sobre este carinha, sugiro visitar a [página do projeto](http://yeoman.io/) e conferir. É muito legal! :-)

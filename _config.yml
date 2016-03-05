@@ -4,7 +4,7 @@ meta_description: "Diego Toral, Blogging about NERD stuffs"
 
 aboutPage: true
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 gems:
   - jekyll-paginate

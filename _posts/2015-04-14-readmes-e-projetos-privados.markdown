@@ -2,6 +2,7 @@
 layout: post
 title: READMEs e projetos privados
 date: '2015-04-14 00:15:05'
+description: Um mecanismo simples e eficaz de documentação
 ---
 
 O README é parte fundamental de qualquer projeto, independente do tamanho da equipe. É uma ótima ferramenta de documentação e deve estar presente até em projetos privados.

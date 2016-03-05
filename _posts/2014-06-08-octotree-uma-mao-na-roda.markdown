@@ -2,6 +2,7 @@
 layout: post
 title: 5 extensões do Chrome que você deveria conhecer
 date: '2014-06-08 00:48:35'
+description: Extensões Chrome para melhorar seu workflow
 ---
 
 O Chrome é um browser bastante completo. Se você é um usuário comum, praticamente não sentirá necessidade de instalar uma extensão, mas se você, assim como eu, faz uso do navegador como uma ferramenta de trabalho e estudo, com certeza, sente necessidade de algo mais.

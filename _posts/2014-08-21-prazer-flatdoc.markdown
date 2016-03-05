@@ -2,6 +2,7 @@
 layout: post
 title: Prazer, Flatdoc
 date: '2014-08-21 01:01:17'
+description: Gere páginas elegantes para arquivos Markdown
 ---
 
 O GitHub revolucionou a maneira como escrevemos READMEs. Até mesmo a função e importância desses arquivos mudou, para melhor.
