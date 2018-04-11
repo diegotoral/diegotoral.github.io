@@ -10,7 +10,7 @@ gems:
   - jekyll-paginate
 
 paginate: 20
-baseurl: "/"
+baseurl: ""
 domain_name: 'http://diegotoral.github.io'
 google_analytics: 'UA-46871915-1'
 disqus: false
